@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently looking for jobs.
 
-- 👨‍💻 Check out my portfolio: [My Portfolio Project](https://balavignesh-mca.github.io/my-portfolio-project/)
+- 👨‍💻 Check out my portfolio: [Portfolio](https://kowshiki-r.github.io/portfolio/)
 
 - 💻 **Project: Three Phase Fault And Street Light Fault Detection Using IoT:**
   Developed an IoT-based system for real-time detection of three-phase power faults and street light failures.
