@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently looking for jobs.
 
-- 👨‍💻 About me: [my-portfolio-project](https://balavignesh-mca.github.io/my-portfolio-project/)
+- 👨‍💻 Check out my portfolio: [My Portfolio Project](https://balavignesh-mca.github.io/my-portfolio-project/)
 
-- 👨‍💻 Three Phase Fault And Street Light Fault Detection Using IOT:
+- 💻 **Project: Three Phase Fault And Street Light Fault Detection Using IoT:**
   Developed an IoT-based system for real-time detection of three-phase power faults and street light failures.
   Utilized sensors to monitor electrical parameters and lighting status, with automated alerts for quick maintenance.
   Enhanced infrastructure reliability and efficiency by providing timely fault detection and actionable insights.
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/balavignesh-mani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/balavignesh-mani/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/balavignesh-mani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
