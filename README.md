@@ -22,6 +22,7 @@
   <li>Firmware Development using C for PIC microcontroller, Arduino, MPLAB XC8.</li>
   <li>Communication Protocols: UART, I2C, SPI.</li>
   <li>C Programming.</li>
+   <li>Python</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
